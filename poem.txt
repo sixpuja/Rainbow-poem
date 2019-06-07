@@ -5,6 +5,8 @@ Pink
 Orange
 Blue
 Green
+Puja
+Uzza
 Maroon
 Indigo
 Unicorn
